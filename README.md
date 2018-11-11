@@ -1,2 +1,1 @@
-# Quickly-APP
-app
+Bu benim ilk depom
